@@ -1,5 +1,5 @@
 # FlyingSquid
-ephemeral HTTP communication, self-handled encyption protocol
+ephemeral HTTP communication console, self-handled encyption protocol
 
 ## USAGE
 in Resources/Scripts/ :
