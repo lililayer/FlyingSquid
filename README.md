@@ -1,5 +1,5 @@
 # FlyingSquid
-Ephemeral HTTP communication console
+Ephemeral HTTP messaging console
 
 Self-handled encyption protocol
 
