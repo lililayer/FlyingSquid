@@ -1,7 +1,10 @@
 # FlyingSquid
 Ephemeral HTTP communication console
+
 Self-handled encyption protocol
+
 You serve your message file
+
 Your friend serves their message file
 
 ## USAGE
